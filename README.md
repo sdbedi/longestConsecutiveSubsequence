@@ -5,8 +5,10 @@ This is a pretty simple repo - a JS function that accepts an unsorted array of n
 
 If there is no such sequence, the function returns 1.
 
-The function has a time complexity of (2n) and a space complexity of (n) through the use of a hashmap. The research I've done into this problem describes this algorithm as the most efficent. However, while I found implementations of this algorithm in several languages, I found non in Javascript; the Javascript solutions to this problem that did exist used other, less efficient algorithms. 
+The function has a time complexity of (2n) and a space complexity of (n) through the use of a hashmap. The research I've done into this problem describes this algorithm as the most efficent. However, while I found implementations of this algorithm in several languages, I found non in Javascript; the Javascript solutions to this problem that did exist used other, less efficient algorithms.
+
+I consider this a "dead" repo - I don't plan to look at this again, and I'll probably ignore pull requests to this repo. But I hope this adds a solution that I did not find anywhere else. 
 
 NOTE: 
 1. There are no driver functions, no runtime, and no provision for accepting command line arguments - if you want to use this function, you'll have to add those features yourself, or copy the code into an actual script or program.
-2. The inputs are not guarded - this function is not protected against being fed a non-array input, or an empty array, or an array of non-numbers
+2. The inputs are not guarded - this function is not protected against being fed a non-array input, or an empty array, or an array of non-numbers.

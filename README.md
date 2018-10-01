@@ -5,7 +5,7 @@ This is a pretty simple repo - a JS function that accepts an unsorted array of n
 
 If there is no such sequence, the function returns 1.
 
-The function has a time complexity of (2n) and a space complexity of (n) through the use of a hashmap. The research I've done into this problem describes this algorithm as the most efficent. However, while I found implementations of this algorithm in several languages, I found non in Javascript; the Javascript solutions to this problem that did exist used other, less efficient algorithms.
+The function has a time complexity of (2n) and a space complexity of (n) through the use of a hashmap. The research I've done into this problem describes this algorithm as the most efficient. However, while I found implementations of this algorithm in several languages, there weren't any in Javascript; the Javascript solutions to this problem that did exist used other, less efficient algorithms.
 
 I consider this a "dead" repo - I don't plan to look at this again, and I'll probably ignore pull requests to this repo. But I hope this adds a solution that I did not find anywhere else. 
 
